@@ -1,0 +1,14 @@
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/bin/Debug/net8.0/Gamification.Core.deps.json
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/bin/Debug/net8.0/Gamification.Core.runtimeconfig.json
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/bin/Debug/net8.0/Gamification.Core.dll
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/bin/Debug/net8.0/Gamification.Core.pdb
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.csproj.AssemblyReference.cache
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.AssemblyInfoInputs.cache
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.AssemblyInfo.cs
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.csproj.CoreCompileInputs.cache
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.dll
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/refint/Gamification.Core.dll
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.pdb
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.genruntimeconfig.cache
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/ref/Gamification.Core.dll

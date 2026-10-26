@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamification.API", "Gamification.API\Gamification.API.csproj", "{BCBB1C5D-F063-4819-8798-1E217330BDEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gamification.Core", "Gamification.Core\Gamification.Core.csproj", "{C5DB77CC-78F5-49F2-A604-551720E2E413}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCBB1C5D-F063-4819-8798-1E217330BDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCBB1C5D-F063-4819-8798-1E217330BDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCBB1C5D-F063-4819-8798-1E217330BDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCBB1C5D-F063-4819-8798-1E217330BDEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5DB77CC-78F5-49F2-A604-551720E2E413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5DB77CC-78F5-49F2-A604-551720E2E413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5DB77CC-78F5-49F2-A604-551720E2E413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5DB77CC-78F5-49F2-A604-551720E2E413}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
