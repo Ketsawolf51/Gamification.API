@@ -9,19 +9,19 @@ public class AchievementDefinition
     public Guid Id { get; set; }
     
     [Required]
-    public string Code { get; set; } = string.Empty;
+    public string Code { get; set; }
     
     [Required]
-    public string Title { get; set; } = string.Empty;
+    public string Title { get; set; } 
     
     [Required]
-    public string Description { get; set; } = string.Empty;
+    public string Description { get; set; } 
     public int XpReward { get; set; }
 
     [Required]
-    public string RuleType { get; set; } = string.Empty;
+    public string RuleType { get; set; } 
     public int RuleParameter { get; set; }
-    public string RuleSource { get; set; } = string.Empty;
+    public string RuleSource { get; set; } 
     public bool IsSecret { get; set; }
     
     [JsonIgnore]
