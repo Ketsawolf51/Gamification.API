@@ -17,11 +17,4 @@ public class XpTransaction
     [JsonIgnore]
     public PlayerProfile? Player { get; set; }
     
-    
-
-    
-    
-    
-    
-    
 }

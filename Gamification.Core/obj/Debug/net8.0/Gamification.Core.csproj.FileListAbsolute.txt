@@ -12,3 +12,4 @@
 /home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.pdb
 /home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.genruntimeconfig.cache
 /home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/ref/Gamification.Core.dll
+/home/ooooo/RiderProjects/Gamification.API/Gamification.Core/obj/Debug/net8.0/Gamification.Core.sourcelink.json

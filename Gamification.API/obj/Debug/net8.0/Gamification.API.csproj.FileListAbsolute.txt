@@ -43,3 +43,4 @@
 /home/ooooo/RiderProjects/Gamification.API/Gamification.API/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
 /home/ooooo/RiderProjects/Gamification.API/Gamification.API/bin/Debug/net8.0/Gamification.Core.dll
 /home/ooooo/RiderProjects/Gamification.API/Gamification.API/bin/Debug/net8.0/Gamification.Core.pdb
+/home/ooooo/RiderProjects/Gamification.API/Gamification.API/obj/Debug/net8.0/Gamification.API.sourcelink.json
